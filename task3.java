@@ -1,3 +1,4 @@
+// 3)(Дополнительное) Реализовать алгоритм сортировки массива слиянием (Дополнительное)
 import java.util.ArrayList;
 import java.util.Random;
 
